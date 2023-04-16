@@ -9,5 +9,6 @@
 2. Sistema de controle de produção simplificado 
 3. Sistema de Impressão de comandas
 4. Controle de estoque e produção de datas comemorativas
+5. Projeto desenvolvido para IT Academy 18
 ----------
 Sempre quero me desenvolver, portanto estou aberto a sugestões, críticas, elogios, etc. Muito obrigado!
