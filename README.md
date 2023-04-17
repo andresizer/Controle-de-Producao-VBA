@@ -5,7 +5,7 @@
 
 ### Essa linguagem foi a minha porta de entrada para a programação. Todos os projetos desenvolvidos em VBA viabilizaram um maior controle e automatização da produção.<br><br> 
 
- <h2 align:="right">:chocolate_bar: Uma breve descrição:</h2><br>
+ <h2 align:="right">:chocolate_bar: Uma breve descrição:</h2>
 
 ### Este projeto foi desenvolvido em 2020 por mim enquanto eu ocupava o cargo de Supervisor de Produção na empresa Charlie Brownie, uma fábrica de brownies de Porto Alegre.<br> Assim que eu assumi o cargo, em janeiro de 2020, me preparei para desenvolver métodos de controle e acompanhamento da produção. Nesse contexto, comecei a estudar VBA para transformar as planilhas de Excel em programas automatizados e de fácil manipulação, para que tanto quanto as pessoas dentro da produção pudessem utilizar.
 ----------
