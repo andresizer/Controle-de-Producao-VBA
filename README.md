@@ -15,26 +15,20 @@
 ### Esse programa é utilizado pelo usuário na própria tela do Excel;<br>Na tela podemos ver os botões em preto, sendo que o botão em azul é o ativo;<br>As células com escrita vermelha e fundo amarelo são as editáveis pelo usuário;<br>O passo atual do programa fica pintado de amarelo para o usuário saber onde está;<br>O Controle de Produção é impresso em uma impressora de comandas;
 
 ![Interface do Programa](img/interface.png)
+![Interface do Programa](img/controle-de-producao.png)
+![Interface do Programa](img/controle-de-producao-2.png)
 # :notebook_with_decorative_cover: Passos de utilização do programa:
 
 - Preencher as sobras de brownie do dia anterior e clicar no botão *Registrar Sobra*
+
 - Definir as quantidades que vão para a loja de Revenda e clicar no botão de *Registrar Revenda*;
 - Definir as previsões de quantidades para o dia seguinte;
 - Clicar em *NÚMEROS DE BROWNIES PRODUÇÃO*;
 - O programa então irá calcular a quantidade a aser produzida;
 - Clicar em *Registrar Produção*;
-- O programa irá registrar a produção automaticamente dessa forma:
-
-![Interface do Programa](img/controle-de-producao.png)
-
-![Interface do Programa](img/controle-de-producao-2.png)
-
+- O programa irá registrar a produção automaticamente;
 - Por fim o usuário deve clicar em *Imprimir*;
 - A comanda de impressão sairá na impressora de comandas definida.
-
-
-----------
-
 # :memo: Outros Projetos:
 
 1. Sistema de controle de produção simplificado 
